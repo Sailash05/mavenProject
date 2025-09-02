@@ -1,0 +1,36 @@
+# Maven target directory
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.classpath
+*.project
+*.settings/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.swp
+*.bak
+*.tmp
+*~
+
+# Java files
+*.class
+*.jar
+*.war
+*.ear
+
+# Others
+hs_err_pid*
+replay_pid*
